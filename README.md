@@ -46,3 +46,35 @@ Module for including fonts to web projects.
 - Tillana
 - Uni Sans
 - Waiting For The Sunshine
+
+## How to use it
+
+The package is prepared for gulp, and works with it only.
+To compile fonts you must specify in your package.json a fonts you want to use in format:
+
+`"fonts": "google/roboto, google/opensans",` 
+
+all fonts must specify path from sources folder and be separated by comma ","
+
+Then in your gulpfile you must do something like this:
+
+```javascript
+import * as fts from "@netivo/fonts";
+
+export const fonts = fts.fonts;
+``` 
+
+__ATENTION__
+
+You must run the gulp by node run command.
+
+To run it by node command, you must in your package.json put something like this:
+```json
+{
+  "scripts": {
+    "fonts": "gulp fonts"
+  }
+}
+```
+
+And run it by command `npm run fonts`.
