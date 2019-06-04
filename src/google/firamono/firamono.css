@@ -1,0 +1,23 @@
+/*
+*
+*   Fira Mono Font Family
+*
+*/
+@font-face {
+  font-family: 'Fira Mono';
+  font-style: normal;
+  font-weight: normal;
+  src: url(../fonts/google/firamono/FiraMono-Regular.ttf);
+}
+@font-face {
+  font-family: 'Fira Mono';
+  font-style: normal;
+  font-weight: 500;
+  src: url(../fonts/google/firamono/FiraMono-Medium.ttf);
+}
+@font-face {
+  font-family: 'Fira Mono';
+  font-style: normal;
+  font-weight: bold;
+  src: url(../fonts/google/firamono/FiraMono-Bold.ttf);
+}

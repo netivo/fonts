@@ -1,0 +1,11 @@
+/*
+*
+*   Slabo13px Font Family
+*
+*/
+@font-face {
+  font-family: 'Slabo13px';
+  font-weight: normal;
+  font-style: normal;
+  src: url('../fonts/google/slabo13px/Slabo13px-Regular.ttf');
+}

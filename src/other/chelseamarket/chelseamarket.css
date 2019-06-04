@@ -1,0 +1,11 @@
+/*
+*
+*   Chelsea Market Font Family
+*
+*/
+@font-face {
+  font-family: 'Chelsea Market';
+  font-weight: normal;
+  font-style: normal;
+  src: url(../fonts/other/chelseamarket/ChelseaMarket-Regular.ttf);
+}

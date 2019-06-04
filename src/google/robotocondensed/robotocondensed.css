@@ -1,0 +1,41 @@
+/*
+*
+*   Roboto Condensed Font Family
+*
+*/
+@font-face {
+  font-family: 'Roboto Condensed';
+  font-style: normal;
+  font-weight: 300;
+  src: url(../fonts/google/robotocondensed/RobotoCondensed-Light.ttf);
+}
+@font-face {
+  font-family: 'Roboto Condensed';
+  font-style: italic;
+  font-weight: 300;
+  src: url(../fonts/google/robotocondensed/RobotoCondensed-LightItalic.ttf);
+}
+@font-face {
+  font-family: 'Roboto Condensed';
+  font-style: normal;
+  font-weight: normal;
+  src: url(../fonts/google/robotocondensed/RobotoCondensed-Regular.ttf);
+}
+@font-face {
+  font-family: 'Roboto Condensed';
+  font-style: italic;
+  font-weight: normal;
+  src: url(../fonts/google/robotocondensed/RobotoCondensed-Italic.ttf);
+}
+@font-face {
+  font-family: 'Roboto Condensed';
+  font-style: normal;
+  font-weight: bold;
+  src: url(../fonts/google/robotocondensed/RobotoCondensed-Bold.ttf);
+}
+@font-face {
+  font-family: 'Roboto Condensed';
+  font-style: italic;
+  font-weight: bold;
+  src: url(../fonts/google/robotocondensed/RobotoCondensed-BoldItalic.ttf);
+}

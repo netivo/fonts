@@ -1,0 +1,35 @@
+/*
+*
+*   Tillana Font Family
+*
+*/
+@font-face {
+  font-family: 'Tillana';
+  font-style: normal;
+  font-weight: normal;
+  src: url(../fonts/other/tillana/Tillana-Regular.ttf);
+}
+@font-face {
+  font-family: 'Tillana';
+  font-style: normal;
+  font-weight: 500;
+  src: url(../fonts/other/tillana/Tillana-Medium.ttf);
+}
+@font-face {
+  font-family: 'Tillana';
+  font-style: normal;
+  font-weight: 600;
+  src: url(../fonts/other/tillana/Tillana-SemiBold.ttf);
+}
+@font-face {
+  font-family: 'Tillana';
+  font-style: normal;
+  font-weight: bold;
+  src: url(../fonts/other/tillana/Tillana-Bold.ttf);
+}
+@font-face {
+  font-family: 'Tillana';
+  font-style: normal;
+  font-weight: 800;
+  src: url(../fonts/other/tillana/Tillana-ExtraBold.ttf);
+}

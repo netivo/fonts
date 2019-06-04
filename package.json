@@ -1,0 +1,33 @@
+{
+  "name": "@netivo/fonts",
+  "version": "0.0.1",
+  "description": "Package with fonts, to include in project or to compile external.",
+  "main": "gulpfile.js",
+  "scripts": {
+    "fonts": "gulp fonts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/netivo/fonts.git"
+  },
+  "keywords": [
+    "netivo",
+    "fonts",
+    "google"
+  ],
+  "author": "Netivo <biuro@netivo.pl> (http://netivo.pl)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/netivo/fonts/issues"
+  },
+  "homepage": "https://github.com/netivo/fonts#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-clean": "^0.4.0",
+    "gulp-clean-css": "^4.2.0",
+    "gulp-concat-css": "^3.1.0",
+    "gulp-rename": "^1.4.0",
+    "gulplog": "^1.0.0"
+  }
+}

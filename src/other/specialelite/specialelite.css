@@ -1,0 +1,11 @@
+/*
+*
+*   Special Elite Font Family
+*
+*/
+@font-face {
+  font-family: 'Special Elite';
+  font-style: normal;
+  font-weight: normal;
+  src: url(../fonts/other/specialelite/SpecialElite.ttf);
+}

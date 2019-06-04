@@ -1,0 +1,17 @@
+/*
+*
+*   Cabin Sketch Font Family
+*
+*/
+@font-face {
+  font-family: 'Cabin Sketch';
+  font-weight: normal;
+  font-style: normal;
+  src: url('../fonts/google/cabinsketch/CabinSketch-Regular.ttf');
+}
+@font-face {
+  font-family: 'Cabin Sketch';
+  font-weight: bold;
+  font-style: normal;
+  src: url('../fonts/google/cabinsketch/CabinSketch-Bold.ttf');
+}

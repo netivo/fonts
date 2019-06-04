@@ -1,0 +1,23 @@
+/*
+*
+*   Open Sans Condensed Font Family
+*
+*/
+@font-face {
+  font-family: 'Open Sans Condensed';
+  font-style: normal;
+  font-weight: 200;
+  src: url('../fonts/google/opensanscondensed/OpenSans-CondLight.ttf');
+}
+@font-face {
+  font-family: 'Open Sans Condensed';
+  font-style: italic;
+  font-weight: 200;
+  src: url('../fonts/google/opensanscondensed/OpenSans-CondLightItalic.ttf');
+}
+@font-face {
+  font-family: 'Open Sans Condensed';
+  font-style: normal;
+  font-weight: bold;
+  src: url('../fonts/google/opensanscondensed/OpenSans-CondBold.ttf');
+}

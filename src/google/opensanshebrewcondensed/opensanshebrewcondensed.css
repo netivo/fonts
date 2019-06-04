@@ -1,0 +1,53 @@
+/*
+*
+*   Open Sans Hebrew Condensed Font Family
+*
+*/
+@font-face {
+  font-family: 'Open Sans Hebrew Condensed';
+  font-style: normal;
+  font-weight: 200;
+  src: url('../fonts/google/opensanshebrewcondensed/OpenSansHebrewCondensed-Light.ttf');
+}
+@font-face {
+  font-family: 'Open Sans Hebrew Condensed';
+  font-style: italic;
+  font-weight: 200;
+  src: url('../fonts/google/opensanshebrewcondensed/OpenSansHebrewCondensed-LightItalic.ttf');
+}
+@font-face {
+  font-family: 'Open Sans Hebrew Condensed';
+  font-style: normal;
+  font-weight: normal;
+  src: url('../fonts/google/opensanshebrewcondensed/OpenSansHebrewCondensed-Regular.ttf');
+}
+@font-face {
+  font-family: 'Open Sans Hebrew Condensed';
+  font-style: italic;
+  font-weight: normal;
+  src: url('../fonts/google/opensanshebrewcondensed/OpenSansHebrewCondensed-Italic.ttf');
+}
+@font-face {
+  font-family: 'Open Sans Hebrew Condensed';
+  font-style: normal;
+  font-weight: bold;
+  src: url('../fonts/google/opensanshebrewcondensed/OpenSansHebrewCondensed-Bold.ttf');
+}
+@font-face {
+  font-family: 'Open Sans Hebrew Condensed';
+  font-style: italic;
+  font-weight: bold;
+  src: url('../fonts/google/opensanshebrewcondensed/OpenSansHebrewCondensed-BoldItalic.ttf');
+}
+@font-face {
+  font-family: 'Open Sans Hebrew Condensed';
+  font-style: normal;
+  font-weight: 900;
+  src: url('../fonts/google/opensanshebrewcondensed/OpenSansHebrewCondensed-ExtraBold.ttf');
+}
+@font-face {
+  font-family: 'Open Sans Hebrew Condensed';
+  font-style: italic;
+  font-weight: 900;
+  src: url('../fonts/google/opensanshebrewcondensed/OpenSansHebrewCondensed-ExtraBoldItalic.ttf');
+}

@@ -1,0 +1,42 @@
+/*
+*
+*   Futura Font Family
+*
+*/
+@font-face {
+  font-family: 'Futura';
+  font-weight: 200;
+  font-style: normal;
+  src: url(../fonts/other/futura/Futura-Lig.otf);
+}
+@font-face {
+  font-family: 'Futura';
+  font-weight: normal;
+  font-style: normal;
+  src: url(../fonts/other/futura/Futura-Boo.otf);
+}
+@font-face {
+  font-family: 'Futura';
+  font-weight: 500;
+  font-style: normal;
+  src: url(../fonts/other/futura/Futura-Dem.otf);
+}
+@font-face {
+  font-family: 'Futura';
+  font-weight: bold;
+  font-style: normal;
+  src: url(../fonts/other/futura/Futura-Bol.otf);
+}
+@font-face {
+  font-family: 'Futura Com';
+  font-weight: normal;
+  font-style: normal;
+  src: url(../fonts/other/futura/FuturaCom-Book.ttf);
+}
+@font-face {
+  font-family: 'Futura Com';
+  font-weight: 500;
+  font-style: normal;
+  src: url(../fonts/other/futura/FuturaCom-Medium.ttf);
+}
+

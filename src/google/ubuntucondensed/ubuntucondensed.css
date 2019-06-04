@@ -1,0 +1,11 @@
+/*
+*
+*   UbuntuCondensed Font Family
+*
+*/
+@font-face {
+  font-family: 'UbuntuCondensed';
+  font-weight: 200;
+  font-style: normal;
+  src: url(../fonts/google/ubuntucondensed/UbuntuCondensed-Regular.ttf);
+}

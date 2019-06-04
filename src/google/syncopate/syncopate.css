@@ -1,0 +1,17 @@
+/*
+*
+*   Syncopate Font Family
+*
+*/
+@font-face {
+  font-family: 'Syncopate';
+  font-weight: normal;
+  font-style: normal;
+  src: url(../fonts/google/syncopate/Syncopate-Regular.ttf);
+}
+@font-face {
+  font-family: 'Syncopate';
+  font-weight: bold;
+  font-style: normal;
+  src: url(../fonts/google/syncopate/Syncopate-Bold.ttf);
+}

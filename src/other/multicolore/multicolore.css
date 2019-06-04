@@ -1,0 +1,11 @@
+/*
+*
+*   Multicolore Font Family
+*
+*/
+@font-face {
+  font-family: 'Multicolore';
+  font-weight: normal;
+  font-style: normal;
+  src: url(../fonts/other/multicore/Multicolore.otf);
+}

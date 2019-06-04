@@ -1,0 +1,29 @@
+/*
+*
+*   Lora Font Family
+*
+*/
+@font-face {
+    font-family: 'Lora';
+    font-style: normal;
+    font-weight: normal;
+    src: url(../fonts/google/lora/Lora-Regular.ttf);
+}
+@font-face {
+    font-family: 'Lora';
+    font-style: normal;
+    font-weight: bold;
+    src: url(../fonts/google/lora/Lora-Bold.ttf);
+}
+@font-face {
+    font-family: 'Lora';
+    font-style: italic;
+    font-weight: bold;
+    src: url(../fonts/google/lora/Lora-BoldItalic.ttf);
+}
+@font-face {
+    font-family: 'Lora';
+    font-style: italic;
+    font-weight: normal;
+    src: url(../fonts/google/lora/Lora-Italic.ttf);
+}

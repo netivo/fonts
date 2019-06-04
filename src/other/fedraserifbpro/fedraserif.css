@@ -1,0 +1,41 @@
+/*
+*
+*   Fedra Serif Font Family
+*
+*/
+@font-face {
+  font-family: 'Fedra Serif';
+  font-weight: normal;
+  font-style: normal;
+  src: url(../fonts/other/fedraserifpro/Fedra-Serif-B-Pro-Normal_17270.ttf);
+}
+@font-face {
+  font-family: 'Fedra Serif';
+  font-weight: normal;
+  font-style: italic;
+  src: url(../fonts/other/fedraserifpro/Fedra-Serif-B-Pro-Normal-Italic_17269.ttf);
+}
+@font-face {
+  font-family: 'Fedra Serif';
+  font-weight: bold;
+  font-style: normal;
+  src: url(../fonts/other/fedraserifpro/Fedra-Serif-B-Pro-Bold_17264.ttf);
+}
+@font-face {
+  font-family: 'Fedra Serif';
+  font-weight: bold;
+  font-style: italic;
+  src: url(../fonts/other/fedraserifpro/Fedra-Serif-B-Pro-Bold-Italic_17263.ttf);
+}
+@font-face {
+  font-family: 'Fedra Serif';
+  font-weight: bold;
+  font-style: normal;
+  src: url(../fonts/other/fedraserifpro/Fedra-Serif-B-Pro-Bold_17264.ttf);
+}
+@font-face {
+  font-family: 'Fedra Serif';
+  font-weight: bold;
+  font-style: italic;
+  src: url(../fonts/other/fedraserifpro/Fedra-Serif-B-Pro-Bold-Italic_17263.ttf);
+}

@@ -1,0 +1,29 @@
+/*
+*
+*   Roboto Slab Font Family
+*
+*/
+@font-face {
+  font-family: 'Roboto Slab';
+  font-style: normal;
+  font-weight: 100;
+  src: url('../fonts/google/robotoslab/RobotoSlab-Thin.ttf');
+}
+@font-face {
+  font-family: 'Roboto Slab';
+  font-style: normal;
+  font-weight: 200;
+  src: url('../fonts/google/robotoslab/RobotoSlab-Light.ttf');
+}
+@font-face {
+  font-family: 'Roboto Slab';
+  font-style: normal;
+  font-weight: normal;
+  src: url('../fonts/google/robotoslab/RobotoSlab-Regular.ttf');
+}
+@font-face {
+  font-family: 'Roboto Slab';
+  font-style: normal;
+  font-weight: bold;
+  src: url('../fonts/google/robotoslab/RobotoSlab-Bold.ttf');
+}
