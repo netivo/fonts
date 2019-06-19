@@ -1,0 +1,75 @@
+/*
+*
+*   Kodchasan Font Family
+*
+*/
+@font-face {
+  font-family: 'Kodchasan';
+  font-style: normal;
+  font-weight: 200;
+  font-display: 'fallback';
+  src: url('../fonts/google/kodchasan/Kodchasan-Light.ttf');
+}
+@font-face {
+  font-family: 'Kodchasan';
+  font-style: italic;
+  font-weight: 200;
+  font-display: 'fallback';
+  src: url('../fonts/google/kodchasan/Kodchasan-LightItalic.ttf');
+}
+@font-face {
+  font-family: 'Kodchasan';
+  font-style: normal;
+  font-weight: normal;
+  font-display: 'fallback';
+  src: url('../fonts/google/kodchasan/Kodchasan-Regular.ttf');
+}
+@font-face {
+  font-family: 'Kodchasan';
+  font-style: italic;
+  font-weight: normal;
+  font-display: 'fallback';
+  src: url('../fonts/google/kodchasan/Kodchasan-Italic.ttf');
+}
+@font-face {
+  font-family: 'Kodchasan';
+  font-style: normal;
+  font-weight: 600;
+  font-display: 'fallback';
+  src: url('../fonts/google/kodchasan/Kodchasan-Semibold.ttf');
+}
+@font-face {
+  font-family: 'Kodchasan';
+  font-style: italic;
+  font-weight: 600;
+  font-display: 'fallback';
+  src: url('../fonts/google/kodchasan/Kodchasan-SemiboldItalic.ttf');
+}
+@font-face {
+  font-family: 'Kodchasan';
+  font-style: normal;
+  font-weight: bold;
+  font-display: 'fallback';
+  src: url('../fonts/google/kodchasan/Kodchasan-Bold.ttf');
+}
+@font-face {
+  font-family: 'Kodchasan';
+  font-style: italic;
+  font-weight: bold;
+  font-display: 'fallback';
+  src: url('../fonts/google/kodchasan/Kodchasan-BoldItalic.ttf');
+}
+@font-face {
+  font-family: 'Kodchasan';
+  font-style: normal;
+  font-weight: 900;
+  font-display: 'fallback';
+  src: url('../fonts/google/kodchasan/Kodchasan-ExtraBold.ttf');
+}
+@font-face {
+  font-family: 'Kodchasan';
+  font-style: italic;
+  font-weight: 900;
+  font-display: 'fallback';
+  src: url('../fonts/google/kodchasan/Kodchasan-ExtraBoldItalic.ttf');
+}
