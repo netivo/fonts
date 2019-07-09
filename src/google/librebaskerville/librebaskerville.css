@@ -1,0 +1,23 @@
+/*
+*
+*   Libre Baskerville Font Family
+*
+*/
+@font-face {
+  font-family: 'Libre Baskerville';
+  font-style: regular;
+  font-weight: 400;
+  src: url('../fonts/google/librebaskerville/LibreBaskerville-Regular.ttf');
+}
+@font-face {
+  font-family: 'Libre Baskerville';
+  font-style: italic;
+  font-weight: 400;
+  src: url('../fonts/google/lato/LibreBaskerville-Italic.ttf');
+}
+@font-face {
+  font-family: 'Libre Baskerville';
+  font-style: bold;
+  font-weight: 700;
+  src: url('../fonts/google/librebaskerville/LibreBaskerville-Bold.ttf');
+}
