@@ -13,6 +13,7 @@ Module for including fonts to web projects.
 - Fira Sans
 - Gentium Basic
 - Lato
+- Libre Baskerville
 - Montserrat
 - Noto Serif
 - Open Sans
