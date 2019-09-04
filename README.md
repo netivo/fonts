@@ -6,6 +6,7 @@ Module for including fonts to web projects.
 - fontawesome
 - google - materialdesign
 #### Google fonts
+- Black Ops One
 - Cabin Sketch
 - Cormorant Garamond
 - Exo

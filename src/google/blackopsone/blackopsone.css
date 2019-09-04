@@ -1,0 +1,11 @@
+/*
+*
+*   Cabin Sketch Font Family
+*
+*/
+@font-face {
+  font-family: 'Black Ops One';
+  font-weight: normal;
+  font-style: normal;
+  src: url('../fonts/google/blackopsone/BlackOpsOne-Regular.ttf');
+}

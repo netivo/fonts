@@ -1,6 +1,6 @@
 {
   "name": "@netivo/fonts",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "Package with fonts, to include in project or to compile external.",
   "main": "gulpfile.js",
   "scripts": {
