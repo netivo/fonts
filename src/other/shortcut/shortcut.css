@@ -7,5 +7,11 @@
   font-family: 'Shortcut';
   font-weight: normal;
   font-style: normal;
-  src: url(../fonts/other/shortcut/SHORTCUT.otf);
+  src: url(../fonts/other/shortcut/SHORTCUT.TTF);
+}
+@font-face {
+  font-family: 'ShortcutmodPL';
+  font-weight: normal;
+  font-style: normal;
+  src: url(../fonts/other/shortcut/ShortcutmodPL-Regular.otf);
 }
