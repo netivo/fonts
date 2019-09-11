@@ -31,7 +31,7 @@ let moveFonts = function(done){
 
 let compileCss = function(done) {
     let fonts = process.env.npm_package_fonts;
-    fonts = fonts.replace(' ', '');
+    fonts = fonts.replace(/\s/g, '');
     fonts = fonts.split(',');
     let src = [];
     fonts.forEach(item => {

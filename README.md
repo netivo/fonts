@@ -44,6 +44,7 @@ Module for including fonts to web projects.
 - Futura
 - Helevetica
 - Multicolore
+- Shortcut
 - Specialelite
 - Tillana
 - Uni Sans
