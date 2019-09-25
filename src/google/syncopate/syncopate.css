@@ -7,11 +7,13 @@
   font-family: 'Syncopate';
   font-weight: normal;
   font-style: normal;
+  font-display: fallback;
   src: url(../fonts/google/syncopate/Syncopate-Regular.ttf);
 }
 @font-face {
   font-family: 'Syncopate';
   font-weight: bold;
   font-style: normal;
+  font-display: fallback;
   src: url(../fonts/google/syncopate/Syncopate-Bold.ttf);
 }

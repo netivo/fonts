@@ -7,47 +7,55 @@
   font-family: "Helvetica Neue";
   font-weight: 100;
   font-style: normal;
+  font-display: fallback;
   src: url(../fonts/other/helvetica/HelveticaNeueLTPro-UltLtEx.otf);
 }
 @font-face {
   font-family: "Helvetica Neue";
   font-weight: 200;
   font-style: normal;
+  font-display: fallback;
   src: url(../fonts/other/helvetica/HelveticaNeueLTPro-Th.otf);
 }
 @font-face {
   font-family: "Helvetica Neue";
   font-weight: 300;
   font-style: normal;
+  font-display: fallback;
   src: url(../fonts/other/helvetica/HelveticaNeueLTPro-Lt.otf);
 }
 @font-face {
   font-family: "Helvetica Neue";
   font-weight: 400;
   font-style: normal;
+  font-display: fallback;
   src: url(../fonts/other/helvetica/HelveticaNeueLTPro-Roman.otf);
 }
 @font-face {
   font-family: "Helvetica Neue";
   font-weight: 500;
   font-style: normal;
+  font-display: fallback;
   src: url(../fonts/other/helvetica/HelveticaNeueLTPro-Md.otf);
 }
 @font-face {
   font-family: "Helvetica Neue";
   font-weight: 600;
   font-style: normal;
+  font-display: fallback;
   src: url(../fonts/other/helvetica/HelveticaNeueLTPro-MdCn.otf);
 }
 @font-face {
   font-family: "Helvetica Neue";
   font-weight: 700;
   font-style: normal;
+  font-display: fallback;
   src: url(../fonts/other/helvetica/HelveticaNeueLTPro-Bd.otf);
 }
 @font-face {
   font-family: "Helvetica Neue";
   font-weight: 800;
   font-style: normal;
+  font-display: fallback;
   src: url(../fonts/other/helvetica/HelveticaNeueLTPro-Hv.otf);
 }

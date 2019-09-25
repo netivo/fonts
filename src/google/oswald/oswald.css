@@ -7,17 +7,20 @@
   font-family: 'Oswald';
   font-style: normal;
   font-weight: 200;
+  font-display: fallback;
   src: url('../fonts/google/oswald/Oswald-Light.ttf');
 }
 @font-face {
   font-family: 'Oswald';
   font-style: normal;
   font-weight: normal;
+  font-display: fallback;
   src: url('../fonts/google/oswald/Oswald-Regular.ttf');
 }
 @font-face {
   font-family: 'Oswald';
   font-style: normal;
   font-weight: bold;
+  font-display: fallback;
   src: url('../fonts/google/oswald/Oswald-Bold.ttf');
 }

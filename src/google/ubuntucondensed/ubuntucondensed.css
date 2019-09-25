@@ -7,5 +7,6 @@
   font-family: 'UbuntuCondensed';
   font-weight: 200;
   font-style: normal;
+  font-display: fallback;
   src: url(../fonts/google/ubuntucondensed/UbuntuCondensed-Regular.ttf);
 }

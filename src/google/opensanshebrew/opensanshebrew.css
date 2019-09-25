@@ -7,47 +7,55 @@
   font-family: 'Open Sans Hebrew';
   font-style: normal;
   font-weight: 200;
+  font-display: fallback;
   src: url('../fonts/google/opensanshebrew/OpenSansHebrew-Light.ttf');
 }
 @font-face {
   font-family: 'Open Sans Hebrew';
   font-style: italic;
   font-weight: 200;
+  font-display: fallback;
   src: url('../fonts/google/opensanshebrew/OpenSansHebrew-LightItalic.ttf');
 }
 @font-face {
   font-family: 'Open Sans Hebrew';
   font-style: normal;
   font-weight: normal;
+  font-display: fallback;
   src: url('../fonts/google/opensanshebrew/OpenSansHebrew-Regular.ttf');
 }
 @font-face {
   font-family: 'Open Sans Hebrew';
   font-style: italic;
   font-weight: normal;
+  font-display: fallback;
   src: url('../fonts/google/opensanshebrew/OpenSansHebrew-Italic.ttf');
 }
 @font-face {
   font-family: 'Open Sans Hebrew';
   font-style: normal;
   font-weight: bold;
+  font-display: fallback;
   src: url('../fonts/google/opensanshebrew/OpenSansHebrew-Bold.ttf');
 }
 @font-face {
   font-family: 'Open Sans Hebrew';
   font-style: italic;
   font-weight: bold;
+  font-display: fallback;
   src: url('../fonts/google/opensanshebrew/OpenSansHebrew-BoldItalic.ttf');
 }
 @font-face {
   font-family: 'Open Sans Hebrew';
   font-style: normal;
   font-weight: 900;
+  font-display: fallback;
   src: url('../fonts/google/opensanshebrew/OpenSansHebrew-ExtraBold.ttf');
 }
 @font-face {
   font-family: 'Open Sans Hebrew';
   font-style: italic;
   font-weight: 900;
+  font-display: fallback;
   src: url('../fonts/google/opensanshebrew/OpenSansHebrew-ExtraBoldItalic.ttf');
 }

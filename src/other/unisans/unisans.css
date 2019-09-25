@@ -7,23 +7,27 @@
   font-family: 'Uni Sans';
   font-weight: 200;
   font-style: normal;
+  font-display: fallback;
   src: url(../fonts/other/unisans/Uni-Sans-Thin.otf);
 }
 @font-face {
   font-family: 'Uni Sans';
   font-weight: 200;
   font-style: italic;
+  font-display: fallback;
   src: url(../fonts/other/unisans/Uni-Sans-Thin-Italic.otf);
 }
 @font-face {
   font-family: 'Uni Sans';
   font-weight: 800;
   font-style: normal;
+  font-display: fallback;
   src: url(../fonts/other/unisans/Uni-Sans-Heavy.otf);
 }
 @font-face {
   font-family: 'Uni Sans';
   font-weight: 800;
   font-style: italic;
+  font-display: fallback;
   src: url(../fonts/other/unisans/Uni-Sans-Heavy-Italic.otf);
 }

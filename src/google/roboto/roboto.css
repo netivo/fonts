@@ -7,71 +7,83 @@
   font-family: 'Roboto';
   font-style: normal;
   font-weight: 200;
+  font-display: fallback;
   src: url(../fonts/google/roboto/Roboto-Thin.ttf);
 }
 @font-face {
   font-family: 'Roboto';
   font-style: italic;
   font-weight: 200;
+  font-display: fallback;
   src: url(../fonts/google/roboto/Roboto-ThinItalic.ttf);
 }
 @font-face {
   font-family: 'Roboto';
   font-style: normal;
   font-weight: 300;
+  font-display: fallback;
   src: url(../fonts/google/roboto/Roboto-Light.ttf);
 }
 @font-face {
   font-family: 'Roboto';
   font-style: italic;
   font-weight: 300;
+  font-display: fallback;
   src: url(../fonts/google/roboto/Roboto-LightItalic.ttf);
 }
 @font-face {
   font-family: 'Roboto';
   font-style: normal;
   font-weight: normal;
+  font-display: fallback;
   src: url(../fonts/google/roboto/Roboto-Regular.ttf);
 }
 @font-face {
   font-family: 'Roboto';
   font-style: italic;
   font-weight: normal;
+  font-display: fallback;
   src: url(../fonts/google/roboto/Roboto-Italic.ttf);
 }
 @font-face {
   font-family: 'Roboto';
   font-style: normal;
   font-weight: 500;
+  font-display: fallback;
   src: url(../fonts/google/roboto/Roboto-Medium.ttf);
 }
 @font-face {
   font-family: 'Roboto';
   font-style: italic;
   font-weight: 500;
+  font-display: fallback;
   src: url(../fonts/google/roboto/Roboto-MediumItalic.ttf);
 }
 @font-face {
   font-family: 'Roboto';
   font-style: normal;
   font-weight: bold;
+  font-display: fallback;
   src: url(../fonts/google/roboto/Roboto-Bold.ttf);
 }
 @font-face {
   font-family: 'Roboto';
   font-style: italic;
   font-weight: bold;
+  font-display: fallback;
   src: url(../fonts/google/roboto/Roboto-BoldItalic.ttf);
 }
 @font-face {
   font-family: 'Roboto';
   font-style: normal;
   font-weight: 900;
+  font-display: fallback;
   src: url(../fonts/google/roboto/Roboto-Black.ttf);
 }
 @font-face {
   font-family: 'Roboto';
   font-style: italic;
   font-weight: 900;
+  font-display: fallback;
   src: url(../fonts/google/roboto/Roboto-BlackItalic.ttf);
 }

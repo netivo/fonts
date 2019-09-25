@@ -7,5 +7,6 @@
   font-family: 'Waiting for the Sunrise';
   font-style: normal;
   font-weight: normal;
+  font-display: fallback;
   src: url(../fonts/other/waitingforthesunrise/WaitingfortheSunrise.ttf);
 }

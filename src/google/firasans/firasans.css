@@ -7,107 +7,125 @@
   font-family: 'Fira Sans';
   font-style: normal;
   font-weight: 100;
+  font-display: fallback;
   src: url(../fonts/google/firasans/FiraSans-Thin.otf);
 }
 @font-face {
   font-family: 'Fira Sans';
   font-style: italic;
   font-weight: 100;
+  font-display: fallback;
   src: url(../fonts/google/firasans/FiraSans-ThinItalic.otf);
 }
 @font-face {
   font-family: 'Fira Sans';
   font-style: normal;
   font-weight: 200;
+  font-display: fallback;
   src: url(../fonts/google/firasans/FiraSans-ExtraLight.otf);
 }
 @font-face {
   font-family: 'Fira Sans';
   font-style: italic;
   font-weight: 200;
+  font-display: fallback;
   src: url(../fonts/google/firasans/FiraSans-ExtraLightItalic.otf);
 }
 @font-face {
   font-family: 'Fira Sans';
   font-style: normal;
   font-weight: 300;
+  font-display: fallback;
   src: url(../fonts/google/firasans/FiraSans-Light.otf);
 }
 @font-face {
   font-family: 'Fira Sans';
   font-style: italic;
   font-weight: 300;
+  font-display: fallback;
   src: url(../fonts/google/firasans/FiraSans-LightItalic.otf);
 }
 @font-face {
   font-family: 'Fira Sans';
   font-style: normal;
   font-weight: normal;
+  font-display: fallback;
   src: url(../fonts/google/firasans/FiraSans-Regular.otf);
 }
 @font-face {
   font-family: 'Fira Sans';
   font-style: italic;
   font-weight: normal;
+  font-display: fallback;
   src: url(../fonts/google/firasans/FiraSans-Italic.otf);
 }
 @font-face {
   font-family: 'Fira Sans';
   font-style: normal;
   font-weight: 500;
+  font-display: fallback;
   src: url(../fonts/google/firasans/FiraSans-Medium.otf);
 }
 @font-face {
   font-family: 'Fira Sans';
   font-style: italic;
   font-weight: 500;
+  font-display: fallback;
   src: url(../fonts/google/firasans/FiraSans-MediumItalic.otf);
 }
 @font-face {
   font-family: 'Fira Sans';
   font-style: normal;
   font-weight: 600;
+  font-display: fallback;
   src: url(../fonts/google/firasans/FiraSans-SemiBold.otf);
 }
 @font-face {
   font-family: 'Fira Sans';
   font-style: italic;
   font-weight: 600;
+  font-display: fallback;
   src: url(../fonts/google/firasans/FiraSans-SemiBoldItalic.otf);
 }
 @font-face {
   font-family: 'Fira Sans';
   font-style: normal;
   font-weight: bold;
+  font-display: fallback;
   src: url(../fonts/google/firasans/FiraSans-Bold.otf);
 }
 @font-face {
   font-family: 'Fira Sans';
   font-style: italic;
   font-weight: bold;
+  font-display: fallback;
   src: url(../fonts/google/firasans/FiraSans-BoldItalic.otf);
 }
 @font-face {
   font-family: 'Fira Sans';
   font-style: normal;
   font-weight: 800;
+  font-display: fallback;
   src: url(../fonts/google/firasans/FiraSans-Heavy.otf);
 }
 @font-face {
   font-family: 'Fira Sans';
   font-style: italic;
   font-weight: 800;
+  font-display: fallback;
   src: url(../fonts/google/firasans/FiraSans-HeavyItalic.otf);
 }
 @font-face {
   font-family: 'Fira Sans';
   font-style: normal;
   font-weight: 900;
+  font-display: fallback;
   src: url(../fonts/google/firasans/FiraSans-Ultra.otf);
 }
 @font-face {
   font-family: 'Fira Sans';
   font-style: italic;
   font-weight: 900;
+  font-display: fallback;
   src: url(../fonts/google/firasans/FiraSans-HeavyItalic.otf);
 }

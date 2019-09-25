@@ -7,5 +7,6 @@
   font-family: 'Black Ops One';
   font-weight: normal;
   font-style: normal;
+  font-display: fallback;
   src: url('../fonts/google/blackopsone/BlackOpsOne-Regular.ttf');
 }

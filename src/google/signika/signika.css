@@ -7,23 +7,27 @@
   font-family: 'Signika';
   font-weight: 200;
   font-style: normal;
+  font-display: fallback;
   src: url(../fonts/google/signika/Signika-Light.ttf);
 }
 @font-face {
   font-family: 'Signika';
   font-weight: normal;
   font-style: normal;
+  font-display: fallback;
   src: url(../fonts/google/signika/Signika-Regular.ttf);
 }
 @font-face {
   font-family: 'Signika';
   font-weight: 600;
   font-style: normal;
+  font-display: fallback;
   src: url(../fonts/google/signika/Signika-Semibold.ttf);
 }
 @font-face {
   font-family: 'Signika';
   font-weight: bold;
   font-style: normal;
+  font-display: fallback;
   src: url(../fonts/google/signika/Signika-Bold.ttf);
 }

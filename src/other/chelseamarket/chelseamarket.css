@@ -7,5 +7,6 @@
   font-family: 'Chelsea Market';
   font-weight: normal;
   font-style: normal;
+  font-display: fallback;
   src: url(../fonts/other/chelseamarket/ChelseaMarket-Regular.ttf);
 }

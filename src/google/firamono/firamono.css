@@ -7,17 +7,20 @@
   font-family: 'Fira Mono';
   font-style: normal;
   font-weight: normal;
+  font-display: fallback;
   src: url(../fonts/google/firamono/FiraMono-Regular.ttf);
 }
 @font-face {
   font-family: 'Fira Mono';
   font-style: normal;
   font-weight: 500;
+  font-display: fallback;
   src: url(../fonts/google/firamono/FiraMono-Medium.ttf);
 }
 @font-face {
   font-family: 'Fira Mono';
   font-style: normal;
   font-weight: bold;
+  font-display: fallback;
   src: url(../fonts/google/firamono/FiraMono-Bold.ttf);
 }

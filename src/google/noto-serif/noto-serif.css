@@ -7,23 +7,27 @@
     font-family: 'NotoSerif';
     font-style: normal;
     font-weight: normal;
+    font-display: fallback;
     src: url(../fonts/google/noto-serif/NotoSerif-Regular.ttf);
 }
 @font-face {
     font-family: 'NotoSerif';
     font-style: normal;
     font-weight: bold;
+    font-display: fallback;
     src: url(../fonts/google/noto-serif/NotoSerif-Bold.ttf);
 }
 @font-face {
     font-family: 'NotoSerif';
     font-style: italic;
     font-weight: bold;
+    font-display: fallback;
     src: url(../fonts/google/noto-serif/NotoSerif-BoldItalic.ttf);
 }
 @font-face {
     font-family: 'NotoSerif';
     font-style: italic;
     font-weight: normal;
+    font-display: fallback;
     src: url(../fonts/google/noto-serif/NotoSerif-Italic.ttf);
 }

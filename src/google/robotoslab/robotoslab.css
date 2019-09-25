@@ -7,23 +7,27 @@
   font-family: 'Roboto Slab';
   font-style: normal;
   font-weight: 100;
+  font-display: fallback;
   src: url('../fonts/google/robotoslab/RobotoSlab-Thin.ttf');
 }
 @font-face {
   font-family: 'Roboto Slab';
   font-style: normal;
   font-weight: 200;
+  font-display: fallback;
   src: url('../fonts/google/robotoslab/RobotoSlab-Light.ttf');
 }
 @font-face {
   font-family: 'Roboto Slab';
   font-style: normal;
   font-weight: normal;
+  font-display: fallback;
   src: url('../fonts/google/robotoslab/RobotoSlab-Regular.ttf');
 }
 @font-face {
   font-family: 'Roboto Slab';
   font-style: normal;
   font-weight: bold;
+  font-display: fallback;
   src: url('../fonts/google/robotoslab/RobotoSlab-Bold.ttf');
 }

@@ -7,5 +7,6 @@
   font-family: 'Special Elite';
   font-style: normal;
   font-weight: normal;
+  font-display: fallback;
   src: url(../fonts/other/specialelite/SpecialElite.ttf);
 }

@@ -7,17 +7,20 @@
   font-family: 'Open Sans Condensed';
   font-style: normal;
   font-weight: 200;
+  font-display: fallback;
   src: url('../fonts/google/opensanscondensed/OpenSans-CondLight.ttf');
 }
 @font-face {
   font-family: 'Open Sans Condensed';
   font-style: italic;
   font-weight: 200;
+  font-display: fallback;
   src: url('../fonts/google/opensanscondensed/OpenSans-CondLightItalic.ttf');
 }
 @font-face {
   font-family: 'Open Sans Condensed';
   font-style: normal;
   font-weight: bold;
+  font-display: fallback;
   src: url('../fonts/google/opensanscondensed/OpenSans-CondBold.ttf');
 }

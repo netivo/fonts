@@ -7,17 +7,20 @@
   font-family: 'Source Serif Pro';
   font-weight: normal;
   font-style: normal;
+  font-display: fallback;
   src: url(../fonts/google/sourceserifpro/SourceSerifPro-Regular.ttf);
 }
 @font-face {
   font-family: 'Source Serif Pro';
   font-weight: 600;
   font-style: normal;
+  font-display: fallback;
   src: url(../fonts/google/sourceserifpro/SourceSerifPro-Semibold.ttf);
 }
 @font-face {
   font-family: 'Source Serif Pro';
   font-weight: bold;
   font-style: normal;
+  font-display: fallback;
   src: url(../fonts/google/sourceserifpro/SourceSerifPro-Bold.ttf);
 }

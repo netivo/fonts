@@ -7,23 +7,27 @@
   font-family: 'UbuntuMono';
   font-style: normal;
   font-weight: normal;
+  font-display: fallback;
   src: url('../fonts/google/ubuntumono/UbuntuMono-Regular.ttf');
 }
 @font-face {
   font-family: 'UbuntuMono';
   font-style: italic;
   font-weight: normal;
+  font-display: fallback;
   src: url('../fonts/google/ubuntumono/UbuntuMono-Italic.ttf');
 }
 @font-face {
   font-family: 'UbuntuMono';
   font-style: normal;
   font-weight: bold;
+  font-display: fallback;
   src: url('../fonts/google/ubuntumono/UbuntuMono-Bold.ttf');
 }
 @font-face {
   font-family: 'UbuntuMono';
   font-style: italic;
   font-weight: bold;
+  font-display: fallback;
   src: url('../fonts/google/ubuntumono/UbuntuMono-BoldItalic.ttf');
 }

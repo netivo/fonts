@@ -7,5 +7,6 @@
   font-family: 'Multicolore';
   font-weight: normal;
   font-style: normal;
+  font-display: fallback;
   src: url(../fonts/other/multicore/Multicolore.otf);
 }

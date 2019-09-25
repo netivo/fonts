@@ -7,95 +7,111 @@
   font-family: 'Raleway';
   font-style: normal;
   font-weight: 100;
+  font-display: fallback;
   src: url('../fonts/google/raleway/Raleway-Thin.ttf');
 }
 @font-face {
   font-family: 'Raleway';
   font-style: italic;
   font-weight: 100;
+  font-display: fallback;
   src: url('../fonts/google/raleway/Raleway-ThinItalic.ttf');
 }
 @font-face {
   font-family: 'Raleway';
   font-style: normal;
   font-weight: 200;
+  font-display: fallback;
   src: url('../fonts/google/raleway/Raleway-ExtraLight.ttf');
 }
 @font-face {
   font-family: 'Raleway';
   font-style: italic;
   font-weight: 200;
+  font-display: fallback;
   src: url('../fonts/google/raleway/Raleway-ExtraLightItalic.ttf');
 }
 @font-face {
   font-family: 'Raleway';
   font-style: normal;
   font-weight: 300;
+  font-display: fallback;
   src: url('../fonts/google/raleway/Raleway-Light.ttf');
 }
 @font-face {
   font-family: 'Raleway';
   font-style: italic;
   font-weight: 300;
+  font-display: fallback;
   src: url('../fonts/google/raleway/Raleway-LightItalic.ttf');
 }
 @font-face {
   font-family: 'Raleway';
   font-style: normal;
   font-weight: normal;
+  font-display: fallback;
   src: url('../fonts/google/raleway/Raleway-Regular.ttf');
 }
 @font-face {
   font-family: 'Raleway';
   font-style: italic;
   font-weight: normal;
+  font-display: fallback;
   src: url('../fonts/google/raleway/Raleway-Italic.ttf');
 }
 @font-face {
   font-family: 'Raleway';
   font-style: normal;
   font-weight: 600;
+  font-display: fallback;
   src: url('../fonts/google/raleway/Raleway-SemiBold.ttf');
 }
 @font-face {
   font-family: 'Raleway';
   font-style: italic;
   font-weight: 600;
+  font-display: fallback;
   src: url('../fonts/google/raleway/Raleway-SemiBoldItalic.ttf');
 }
 @font-face {
   font-family: 'Raleway';
   font-style: normal;
   font-weight: bold;
+  font-display: fallback;
   src: url('../fonts/google/raleway/Raleway-Bold.ttf');
 }
 @font-face {
   font-family: 'Raleway';
   font-style: italic;
   font-weight: bold;
+  font-display: fallback;
   src: url('../fonts/google/raleway/Raleway-BoldItalic.ttf');
 }
 @font-face {
   font-family: 'Raleway';
   font-style: normal;
   font-weight: 800;
+  font-display: fallback;
   src: url('../fonts/google/raleway/Raleway-ExtraBold.ttf');
 }
 @font-face {
   font-family: 'Raleway';
   font-style: italic;
   font-weight: 800;
+  font-display: fallback;
   src: url('../fonts/google/raleway/Raleway-ExtraBoldItalic.ttf');
 }
 @font-face {
   font-family: 'Raleway';
   font-style: normal;
   font-weight: 900;
+  font-display: fallback;
   src: url('../fonts/google/raleway/Raleway-Black.ttf');
 }
 @font-face {
   font-family: 'Raleway';
   font-style: italic;
   font-weight: 900;
+  font-display: fallback;
   src: url('../fonts/google/raleway/Raleway-BlackItalic.ttf');
 }

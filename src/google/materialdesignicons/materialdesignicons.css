@@ -5,6 +5,7 @@
   src: url("../fonts/google/materialdesignicons/materialdesignicons-webfont.eot?#iefix&v=3.6.95") format("embedded-opentype"), url("../fonts/google/materialdesignicons/materialdesignicons-webfont.woff2?v=3.6.95") format("woff2"), url("../fonts/google/materialdesignicons/materialdesignicons-webfont.woff?v=3.6.95") format("woff"), url("../fonts/google/materialdesignicons/materialdesignicons-webfont.ttf?v=3.6.95") format("truetype"), url("../fonts/google/materialdesignicons/materialdesignicons-webfont.svg?v=3.6.95#materialdesigniconsregular") format("svg");
   font-weight: normal;
   font-style: normal;
+  font-display: fallback;
 }
 .mdi:before,
 .mdi-set {
