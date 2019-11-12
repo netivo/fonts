@@ -17,6 +17,7 @@ Module for including fonts to web projects.
 - Libre Baskerville
 - Montserrat
 - Noto Serif
+- Kanit
 - Open Sans
 - Open Sans Condensed
 - Open Sans Hebrew

@@ -1,0 +1,117 @@
+/*
+*
+*   Kanit Font Family
+*
+*/
+@font-face {
+  font-family: 'Kanit';
+  font-style: normal;
+  font-weight: 100;
+  font-display: fallback;
+  src: url('../fonts/google/kanit/Kanit-ExtraLight.ttf');
+}
+@font-face {
+  font-family: 'Kanit';
+  font-style: italic;
+  font-weight: 100;
+  font-display: fallback;
+  src: url('../fonts/google/kanit/Kanit-ExtraLightItalic.ttf');
+}
+@font-face {
+  font-family: 'Kanit';
+  font-style: normal;
+  font-weight: 200;
+  font-display: fallback;
+  src: url('../fonts/google/kanit/Kanit-Thin.ttf');
+}
+@font-face {
+  font-family: 'Kanit';
+  font-style: italic;
+  font-weight: 200;
+  font-display: fallback;
+  src: url('../fonts/google/kanit/Kanit-ThinItalic.ttf');
+}
+@font-face {
+  font-family: 'Kanit';
+  font-style: normal;
+  font-weight: 300;
+  font-display: fallback;
+  src: url('../fonts/google/kanit/Kanit-Light.ttf');
+}
+@font-face {
+  font-family: 'Kanit';
+  font-style: italic;
+  font-weight: 300;
+  font-display: fallback;
+  src: url('../fonts/google/kanit/Kanit-LightItalic.ttf');
+}
+@font-face {
+  font-family: 'Kanit';
+  font-style: normal;
+  font-weight: normal;
+  font-display: fallback;
+  src: url('../fonts/google/kanit/Kanit-Regular.ttf');
+}
+@font-face {
+  font-family: 'Kanit';
+  font-style: italic;
+  font-weight: normal;
+  font-display: fallback;
+  src: url('../fonts/google/kanit/Kanit-Italic.ttf');
+}
+@font-face {
+  font-family: 'Kanit';
+  font-style: normal;
+  font-weight: 600;
+  font-display: fallback;
+  src: url('../fonts/google/kanit/Kanit-Semibold.ttf');
+}
+@font-face {
+  font-family: 'Kanit';
+  font-style: italic;
+  font-weight: 600;
+  font-display: fallback;
+  src: url('../fonts/google/kanit/Kanit-SemiboldItalic.ttf');
+}
+@font-face {
+  font-family: 'Kanit';
+  font-style: normal;
+  font-weight: bold;
+  font-display: fallback;
+  src: url('../fonts/google/kanit/Kanit-Bold.ttf');
+}
+@font-face {
+  font-family: 'Kanit';
+  font-style: italic;
+  font-weight: bold;
+  font-display: fallback;
+  src: url('../fonts/google/kanit/Kanit-BoldItalic.ttf');
+}
+@font-face {
+  font-family: 'Kanit';
+  font-style: normal;
+  font-weight: 800;
+  font-display: fallback;
+  src: url('../fonts/google/kanit/Kanit-ExtraBold.ttf');
+}
+@font-face {
+  font-family: 'Kanit';
+  font-style: italic;
+  font-weight: 800;
+  font-display: fallback;
+  src: url('../fonts/google/kanit/Kanit-ExtraBoldItalic.ttf');
+}
+@font-face {
+  font-family: 'Kanit';
+  font-style: normal;
+  font-weight: 900;
+  font-display: fallback;
+  src: url('../fonts/google/kanit/Kanit-Black.ttf');
+}
+@font-face {
+  font-family: 'Kanit';
+  font-style: italic;
+  font-weight: 900;
+  font-display: fallback;
+  src: url('../fonts/google/kanit/Kanit-BlackItalic.ttf');
+}
